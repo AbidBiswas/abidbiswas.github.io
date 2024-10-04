@@ -1,7 +1,7 @@
 # Hello, I'm Abid Biswas
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Recent BSc graduate in Information and Communications Engineering with hands-on knowledge innetworking and cybersecurity. Eager to apply technical skills and theoretical knowledge tocontribute to a forward-thinking IT team. Passionate about leveraging expertise to enhancenetwork security and optimize IT infrastructure while continuing to grow professionally in the field.
+Recent BSc graduate in Information and Communications Engineering with hands-on knowledge in networking and cybersecurity. Eager to apply technical skills and theoretical knowledge tocontribute to a forward-thinking IT team. Passionate about leveraging expertise to enhancenetwork security and optimize IT infrastructure while continuing to grow professionally in the field.
 
 ## Objective
 My journey in Communication Engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Penetration Tester.
