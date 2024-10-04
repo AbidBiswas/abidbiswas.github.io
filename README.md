@@ -1,17 +1,11 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Abid Biswas
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Recent BSc graduate in Information and Communications Engineering with hands-on knowledge innetworking and cybersecurity. Eager to apply technical skills and theoretical knowledge tocontribute to a forward-thinking IT team. Passionate about leveraging expertise to enhancenetwork security and optimize IT infrastructure while continuing to grow professionally in the field.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in Communication Engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Penetration Tester.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,7 +17,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+Nmap
+Metasploit Framework
+Burp Suite
+Wireshark
+John the Ripper
+SQLmap
+Hydra
+Nessus
+Nikto
 
 ### Network
 <div>
