@@ -18,15 +18,15 @@ My journey in Communication Engineering has led me to develop a passion for cybe
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-Nmap
-Metasploit Framework
-Burp Suite
-Wireshark
-John the Ripper
-SQLmap
-Hydra
-Nessus
-Nikto
+- Nmap
+- Metasploit Framework
+- Burp Suite
+- Wireshark
+- John the Ripper
+- SQLmap
+- Hydra
+- Nessus
+- Nikto
 
 ### Network
 <div>
