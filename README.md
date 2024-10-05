@@ -28,7 +28,9 @@ My journey in Communication Engineering has led me to develop a passion for cybe
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white&labelColor=EA4335&color=FBBC05&link=https://grow.google/certificates/cybersecurity/" />
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b9980698-dd18-4edc-840c-4db540784b0e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+[Check out my Credly badge](https://www.credly.com/badges/b9980698-dd18-4edc-840c-4db540784b0e/public_url)
+
 
 
 
