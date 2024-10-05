@@ -18,23 +18,14 @@ My journey in Communication Engineering has led me to develop a passion for cybe
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-- Nmap
-- Metasploit Framework
-- Burp Suite
-- Wireshark
-- John the Ripper
-- SQLmap
-- Hydra
-- Nessus
-- Nikto
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-John_the_Ripper-8A0707?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4EAA25?style=for-the-badge&logo=nmap&logoColor=white" />
 
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    
 </div>
 
 ### Endpoint
