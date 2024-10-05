@@ -42,6 +42,11 @@ My journey in Communication Engineering has led me to develop a passion for cybe
 - SOC Automation Project
 
 
+![google-cybersecurity-certificate](https://github.com/user-attachments/assets/d7f8115a-caee-4248-97a3-5ba45de35598)
+
+
+
+
 
 
 
