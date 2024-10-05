@@ -45,3 +45,15 @@ My journey in Communication Engineering has led me to develop a passion for cybe
 ## Projects
 - Detection Lab
 - SOC Automation Project
+
+
+
+
+
+
+# My GitHub Profile
+
+**Credly Badge:**
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b9980698-dd18-4edc-840c-4db540784b0e" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
