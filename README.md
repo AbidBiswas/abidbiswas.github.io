@@ -46,5 +46,5 @@ My journey in Communication Engineering has led me to develop a passion for cybe
 
 
 
-![image](https://github.com/user-attachments/assets/251acccf-d42f-4a2a-935a-6e16b2271a41)
+
 
