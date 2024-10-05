@@ -31,7 +31,8 @@ My journey in Communication Engineering has led me to develop a passion for cybe
 
 
 
-[![Certified AppSec Practitioner](https://images.credly.com/size/150x150/images/a43e3c92-7068-4d8b-bb52-732c80df9d69/image.png)](https://www.credly.com/badges/b9980698-dd18-4edc-840c-4db540784b0e/public_url)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b9980698-dd18-4edc-840c-4db540784b0e" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 
