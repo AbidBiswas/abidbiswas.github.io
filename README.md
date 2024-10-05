@@ -51,9 +51,5 @@ My journey in Communication Engineering has led me to develop a passion for cybe
 
 
 
-# My GitHub Profile
+![image](https://github.com/user-attachments/assets/251acccf-d42f-4a2a-935a-6e16b2271a41)
 
-**Credly Badge:**
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b9980698-dd18-4edc-840c-4db540784b0e" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
