@@ -22,9 +22,10 @@ My journey in Communication Engineering has led me to develop a passion for cybe
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-John_the_Ripper-8A0707?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-4EAA25?style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Netcat-000000?&style=for-the-badge&logo=netcat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Netcat-000000?&style=for-the badge&logo=https://github.com/AbidBiswas/logo/raw/main/netcat%20Logo%20Vector.svg&logoColor=white" />
+
 
    
 
