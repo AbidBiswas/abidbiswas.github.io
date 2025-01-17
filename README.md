@@ -35,7 +35,7 @@ My journey in Communication Engineering has led me to develop a passion for cybe
 
 
 
-</div>
+
 
 ## Projects
 - Detection Lab
