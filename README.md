@@ -15,7 +15,8 @@ My journey in Communication Engineering has led me to develop a passion for cybe
 
 ## Soft Skills
 - Poblem-Solving
-- Teamwork,
+- Teamwork
+- Leadership
 
 
 ## Certifications
