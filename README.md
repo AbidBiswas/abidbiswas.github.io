@@ -25,18 +25,6 @@ My journey in Communication Engineering has led me to develop a passion for cybe
 <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white&labelColor=EA4335&color=FBBC05&link=https://grow.google/certificates/cybersecurity/" />   
 <img src="https://img.shields.io/badge/Cisco_CyberOps-003F8C?style=for-the-badge&logo=cisco&logoColor=white" />
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## Projects
 - Detection Lab
 - SOC Automation Project
